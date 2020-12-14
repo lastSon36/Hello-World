@@ -1,5 +1,6 @@
 # Hello-World
-My first repository
+Gonna use this as a brainstorming center.
+1. Supply dashboard
+2. Restaurant Picker
+3. MAC Correlator 
 
-Hello I'm a computer science student at Troy University. 
-I have a bit of experience with Python, Java, and C++.
